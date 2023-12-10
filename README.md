@@ -1,7 +1,7 @@
 # Prework Study Guide Webpage
 
 ## Description
-This Prework Study Guide was created for a four-month fullstack coding bootcamp. It contains organized and accessible notes on HTML, CSS, git, and JavaScript to reference while studying. The process of buiding this study guide familiarized me with these topics both in concept and in application. 
+This Prework Study Guide was created for a four-month fullstack coding bootcamp. It contains organized and accessible notes on HTML, CSS, git, and JavaScript to reference while studying. The process of building this study guide familiarized me with these topics both in concept and in application. 
 
 ## Installation
 N/A
